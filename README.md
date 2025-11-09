@@ -1,4 +1,4 @@
-# Database System of College Students restaurant based on Python GUI Library Tkinter
+# Database System of College Students Restaurant based on Python GUI Library Tkinter
 ---
 
 ## Introduction
